@@ -20,7 +20,7 @@ It uses an **agentic LangGraph pipeline** to turn a user question into a **check
 
 ## Architecture (High‑Level)
 
-```mermaid
+```
 flowchart LR
   Q[Query] --> C[Classifier]
   C --> R[Retriever (FAISS/Qdrant)]
