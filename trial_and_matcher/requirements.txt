@@ -1,0 +1,13 @@
+fastapi
+uvicorn 
+dotenv
+langchain-openai
+langgraph
+langchain-community
+langfuse
+streamlit
+transformers 
+torch
+bitsandbytes
+accelerate
+faiss-cpu
